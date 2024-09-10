@@ -514,7 +514,7 @@ class _GameBoardState extends State<GameBoard> {
             ),
             Text(checkStatus ? 'CHECK' : ''),
             Expanded(
-              flex: 3,
+              flex: 4,
               child: GridView.builder(
                 physics: const NeverScrollableScrollPhysics(),
                 itemCount: 8 * 8,
