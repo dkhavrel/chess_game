@@ -14,10 +14,10 @@ This project implements a chess game in Flutter with full game logic and a respo
 ## Screenshots
 
 ### Main Screen
-![Main Screen](lib/images/screenshots/chess_main_screen.png)
+<img src="lib/images/screenshots/chess_main_screen.png" alt="Main Screen" height="400">
 
 ### Checkmate Alert
-![Checkmate Screenshot](lib/images/screenshots/chess_example.png)
+<img src="lib/images/screenshots/chess_example.png" alt="Checkmate Screenshot" height="400">
 
 
 ## Getting Started
